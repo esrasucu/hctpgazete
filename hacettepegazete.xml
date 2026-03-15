@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gazete_hacettepe>
+    <metadata>
+        <title>Gazete Hacettepe</title>
+        <url>https://gazete.hacettepe.edu.tr/tr</url>
+        <language>tr</language>
+        <copyright>2022 Gazete Hacettepe</copyright>
+    </metadata>
+
+    <navigation>
+        <item id="1">ANA SAYFA</item>
+        <item id="2">HABERLER</item>
+        <item id="3">İLETİŞİM</item>
+        <item id="4">HABER YAYINLAMA</item>
+    </navigation>
+
+    <content>
+        <featured_news>
+            <title>Türkiye'nin en kapsamlı Biyoçeşitlilik Müzesi Hacettepe'de açıldı</title>
+            <summary>Türlerin ve genlerin biosferdeki serüvenlerinin keşfedileceği Hacettepe Üniversitesi Biyoçeşitlilik Müzesi (BİYOSFER) açıldı.</summary>
+            <link>https://gazete.hacettepe.edu.tr/tr/haber/biyocesitlilik_muzesi_acildi</link>
+        </featured_news>
+
+        <articles>
+            <article id="101">
+                <title>Hacettepe'den Uluslararası Başarı: BioPATH-SAID projesine AB desteği</title>
+                <date>11.03.2026</date>
+                <author>Prof. Dr. Seza Özen</author>
+                <category>Projeler</category>
+                <faculty>Tıp Fakültesi</faculty>
+                <tags>
+                    <tag>Araştırma</tag>
+                    <tag>Toplumsal Katkı</tag>
+                </tags>
+            </article>
+
+            <article id="102">
+                <title>Bologna-Ankara arasında değişim ve iş birliği proje başladı</title>
+                <date>10.03.2026</date>
+                <author>CENK GÜRAY</author>
+                <category>Projeler</category>
+                <faculty>Ankara Devlet Konservatuvarı</faculty>
+            </article>
+            
+            <article id="103">
+                <title>Hacettepe'de artırılmış gerçeklik ile yeni müze deneyimi</title>
+                <date>06.03.2026</date>
+                <author>BANU BULDUK TÜRKMEN</author>
+                <category>Projeler</category>
+                <faculty>Grafik Bölümü</faculty>
+            </article>
+        </articles>
+    </content>
+
+    <footer>
+        <contact_info>
+            <address>Hacettepe Üniversitesi Beytepe Yerleşkesi</address>
+        </contact_info>
+        <social_media>
+            <platform name="Twitter">https://twitter.com/HacettepeUni</platform>
+            <platform name="Instagram">https://instagram.com/hacettepe_universtiy</platform>
+        </social_media>
+    </footer>
+</gazete_hacettepe>
